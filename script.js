@@ -143,6 +143,6 @@ yesBtn.onclick = () => {
 
     }
 
-    alert("❤️ I Love You Shawlin ❤️\n\nHappy Birthday My Princess! 🎂🥰");
+    alert("❤️ I Love You LISA ❤️\n\nHappy Birthday My Princess! 🎂🥰");
 
 };
